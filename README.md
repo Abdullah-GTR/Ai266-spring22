@@ -5,3 +5,4 @@ Name: Ahmer Hussain
 Student ID: 10735
 
 my name is huzaifa id is 10830
+My name is Muhammad Faiz 10637
