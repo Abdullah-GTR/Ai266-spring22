@@ -1,14 +1,8 @@
 # Ai266-spring22
 
-my name is huzaifa id is 10830
-
-
-Why I choose computer science?
-CS is an inovative field and I want to do something big in the field of technology.Problem solving is the need of world nowadays.
-
-Why do you think we study Ai in CS?
-CS is a basic field and Ai is an advance technology. If we want to update and compete with the world we should aware with Ai.Future technology is also depends on Ai.
-
-
-
+Muhammad Faiz 10637
+ANSWER 1
+The reason behind to select CS field, Because of personal interest,another reason want to know how to implement the actual anatomy of Computer,and the implementaion of it in a real time.
+ANSWER 2
+If i had a chance to drop an AI course, the answer will be definitely no, because of the upcoming era relies on the field of AI as we see the major innovation in CS on routine basis most of them link somewhere with AI.
 
