@@ -13,3 +13,9 @@ Ahmer Hussain 10735
  
  # output
 ![AI ASS2](https://user-images.githubusercontent.com/99546831/167914346-1abf5216-cf30-43fb-96b8-d91adee5d575.PNG)
+
+Abdur Rehman (10875)
+Assignment 2:
+We generate the random number in our code checking the test file from Kaggle then upload the file in Kaggle
+ # output
+![Capture](https://user-images.githubusercontent.com/87324678/167905429-7d8d72b1-57a4-49ec-bdbd-a08b3dcd9ed9.PNG)
