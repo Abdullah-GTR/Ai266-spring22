@@ -26,7 +26,7 @@ Muhammad Faiz 10637
  
  Muhammaf huzaifa 10830
  
- In assignment 2 we started taking part in cometetion and print rendom numbers
+ In assignment 2 we started taking part in competition and print rendom values in csv file format
  
  ![a](https://user-images.githubusercontent.com/99601994/167917875-e0ffc50d-ea62-489c-9ba5-468ebd5784df.JPG)
 
