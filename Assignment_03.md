@@ -12,4 +12,6 @@
 My module is Perceptron and I drop duplicates columns for the best Accuracy.
 ![AI ASS3](https://user-images.githubusercontent.com/99546831/168898252-0c7b50b1-b1a7-4d28-bbeb-da5c7c3ec057.PNG)
 
-
+#Abdur Rehman (10875) Assignment 3
+The Module is Laplace Smoothing i dropped some clumns from test table for the reduce the time.
+![Capture](https://user-images.githubusercontent.com/87324678/168902956-4ff1825f-11e2-4bb8-b880-2c589f9d8217.PNG)
