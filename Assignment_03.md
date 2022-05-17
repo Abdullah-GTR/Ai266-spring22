@@ -14,4 +14,8 @@ My module is Perceptron and I drop duplicates columns for the best Accuracy.
 
 #Abdur Rehman (10875) Assignment 3
 The Module is Laplace Smoothing i dropped some clumns from test table for the reduce the time.
-![Capture](https://user-images.githubusercontent.com/87324678/168904330-f4bd95d6-658a-495e-85f5-aeba3da960ce.PNG)
+![Capture](https://user-images.githubusercontent.com/87324678/168902956-4ff1825f-11e2-4bb8-b880-2c589f9d8217.PNG)
+
+Muhammad Huzaifa(10830)
+module is lidstone 
+![1](https://user-images.githubusercontent.com/99601994/168904447-4f31c858-7d93-4ce4-8088-5514b7c3e047.JPG)
