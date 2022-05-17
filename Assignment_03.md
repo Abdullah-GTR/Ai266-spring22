@@ -9,6 +9,7 @@
 |  Ahmer Hussain        |    10735   |
 
 # Ahmer Hussain(10735)
+My module is Perceptron and I drop duplicates columns for the best Accuracy.
 ![AI ASS3](https://user-images.githubusercontent.com/99546831/168898252-0c7b50b1-b1a7-4d28-bbeb-da5c7c3ec057.PNG)
 
 
