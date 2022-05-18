@@ -30,3 +30,9 @@ Muhammad Faiz 10637
  
  ![a](https://user-images.githubusercontent.com/99601994/167917875-e0ffc50d-ea62-489c-9ba5-468ebd5784df.JPG)
 
+10621 shoaib ahmed
+
+In assigment 2 i have generated some random numbers and printed them out in .CSV file 
+
+
+![assigment_2_output](https://user-images.githubusercontent.com/59770087/169151016-eaf2a6cf-dd87-4fd9-8ef2-6087d52b2c89.PNG)
