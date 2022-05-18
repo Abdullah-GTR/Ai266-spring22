@@ -23,3 +23,9 @@ module is lidstone
 Muhammad Faiz(10637)
 Whenever I try to train KNN model with all features given in a dataset with maximum 7 counts of neighbours,the main problem faced by this method was slower computation due to which fail to acieve the the accuracy of a given dataset ...first i trained with max 7 numbers of neighbour with excluded f_27 column which was irrelevent column,then with minimizing number of neighbours by 3 and then 1 , the accuracy achieved by using count of 3 neighbours,through this method, approx 50% by a given dataset with in maximum 1 hours and 13 min of computation...
 ![image](https://user-images.githubusercontent.com/99601979/168906236-71a6bef2-1bf3-4c86-8ec3-c0a56f9f88c2.png)
+
+
+10621 shoaib ahmed
+My module is SVM this is a type of module in which i tried to train this but it is taking so much time that it is impossible to get the results
+I even tried to use it with less features but the result was same.
+and that is why i am unable to show my output screen and accuracy.
