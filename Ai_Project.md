@@ -9,10 +9,13 @@
 |  Ahmer Hussain        |    10735   |
 
 # Ahmer Hussain(10735)
-![AIproj](https://user-images.githubusercontent.com/99546831/169717392-e5b68ae9-5059-49d3-8ba6-d273269a625c.PNG)
 
 
-#Muhammad Faiz(10637)
+# Muhammad Faiz(10637)
+Multiple Sykit model Tried and Tested with removing one of the feature of a given dataset column f_27, the problem we face how to convert the string data into a float value which is actual the column f_27.
+After tested approximately 7 to 8 models in which most of models given accuracy in between 55% to 70% of accuracy. Finally our team have to achieved nearby 72% accuracy with a given dataset by DecisionTreeClassifier Model.
+![image](https://user-images.githubusercontent.com/99601979/169717394-82484951-5722-4c4a-b7d8-05129f26cb79.png)
+
 
 # Abdur Rehman(10875)
 We work on extra tree classifier and ridge classifier module.
