@@ -14,7 +14,7 @@
 #Muhammad Faiz(10637)
 
 # Abdur Rehman(10875)
-Me and M.Huzaifa work on extra tree classifier and ridge classifier module.
+We work on extra tree classifier and ridge classifier module.
 ![Capture2](https://user-images.githubusercontent.com/87324678/169716343-16785ee9-a5a0-4cbc-af5d-9d44d6bdff48.PNG)
 
 # M.Huzaifa(10830)
