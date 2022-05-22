@@ -9,6 +9,8 @@
 |  Ahmer Hussain        |    10735   |
 
 # Ahmer Hussain(10735)
+Multiple Sykit model Tried and Tested with removing one of the feature of a given dataset column f_27, the problem we face how to convert the string data into a float value which is actual the column f_27. After tested approximately 7 to 8 models in which most of models given accuracy in between 55% to 70% of accuracy. Finally our team have to achieved nearby 72% accuracy with a given dataset by DecisionTreeClassifier Model.
+![AIproj](https://user-images.githubusercontent.com/99546831/169717891-31fbe83b-b06f-40a0-80c1-17f6a7e7539a.PNG)
 
 
 # Muhammad Faiz(10637)
