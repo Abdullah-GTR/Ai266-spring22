@@ -110,6 +110,28 @@ print("The Accuracy Score Of Preceptron",Percept*100)
 skf = StratifiedKFold(n_splits=3)
 for train, test in skf.split(X, y):
   print('train -  {}   |   test -  {}'.format(np.bincount(y[train]), np.bincount(y[test])))
+  
+#Using Support Vector Machine For Data Fiting,Predicting,And Scoring Accuracy
+clf = make_pipeline(StandardScaler(), SVC(gamma='auto'))
+clf.fit(abs(t_train), y_train)
+clf.predict(t_test)
+Svm=clf.score(t_test,y_test)
+print("The Accuracy Score Of SVM",Svm*100)
+
+skf = StratifiedKFold(n_splits=3)
+for train, test in skf.split(X, y):
+  print('train -  {}   |   test -  {}'.format(np.bincount(y[train]), np.bincount(y[test])))
+
+#Using Knn For Data Fiting,Predicting,And Scoring Accuracy
+clf = KNeighborsClassifier(n_neighbors=5)
+clf.fit(abs(t_train), y_train)
+clf.predict(t_test)
+Knn=clf.score(t_test,y_test)
+print("The Accuracy Score Of Knn",Knn*100)
+
+skf = StratifiedKFold(n_splits=3)
+for train, test in skf.split(X, y):
+  print('train -  {}   |   test -  {}'.format(np.bincount(y[train]), np.bincount(y[test]))
 
 #Abdur Rehman(10875), Mohammad Huzaifa (10830) Part
 #Here We Have Tweaked Our classifiers By  Adjusting The Parameters
