@@ -22,8 +22,16 @@ After tested approximately 7 to 8 models in which most of models given accuracy 
 
 # Abdur Rehman(10875)
 We work on extra tree classifier and ridge classifier module.
+Extra tree classifier is an ensemble algorithm which ue number of decision tree at the back end and each decision 
+tree is uncorrelated to each other.Ridge regression is a model tuning method that is used to analyse any data that suffers from multicollinearity. 
+This method performs L2 regularization. When the issue of multicollinearity occurs,
+ least-squares are unbiased, and variances are large, this results in predicted values being far away from the actual values. 
 ![Capture2](https://user-images.githubusercontent.com/87324678/169716343-16785ee9-a5a0-4cbc-af5d-9d44d6bdff48.PNG)
 
 # M.Huzaifa(10830)
 We work on extra tree classifier and ridge classifier module.
+Extra tree classifier is an ensemble algorithm which ue number of decision tree at the back end and each decision 
+tree is uncorrelated to each other.Ridge regression is a model tuning method that is used to analyse any data that suffers from multicollinearity. 
+This method performs L2 regularization. When the issue of multicollinearity occurs,
+ least-squares are unbiased, and variances are large, this results in predicted values being far away from the actual values. 
  ![2](https://user-images.githubusercontent.com/99601994/169716195-52e137bb-068a-4a9a-a336-136070e4c840.JPG)
