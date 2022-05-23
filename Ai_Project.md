@@ -36,3 +36,15 @@ This method performs L2 regularization. When the issue of multicollinearity occu
  least-squares are unbiased, and variances are large, this results in predicted values being far away from the actual values.
  We reached at the accuracy of 71%
  ![2](https://user-images.githubusercontent.com/99601994/169716195-52e137bb-068a-4a9a-a336-136070e4c840.JPG)
+
+# Shoaib Ahmed (10621)
+
+Shoaib ahmed 10621
+Sir my model is SVM ("Support Vector Machine ") I have tried to train this model  to get accuracy by running the code for almost 6+ hours but I didn't get any accuracy so
+I reduced the THRESHOLD..  
+removed the DATA STRING column..
+converted NEGATIVE columns into POSITIVE columns..
+Reduced FRATURES of DATA..
+Splited TRAINED DATA..
+But still was unable to get the accuracy..
+Below is the Best accuracy of our group work
