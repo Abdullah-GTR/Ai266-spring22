@@ -12,6 +12,8 @@
 Multiple Sykit model Tried and Tested with removing one of the feature of a given dataset column f_27, the problem we face how to convert the string data into a float value which is actual the column f_27. 
 In this Model Underfitting problem appears when the developed model is too simple, leading both the train errors and test errors are large. In contrast, overfitting problem happens when the model is too complicated but it’s not supposed to be, this making the train errors be small and test errors be large.  After tested approximately 7 to 8 models in which most of models given accuracy in between 55% to 70% of accuracy. Finally our team have to achieved nearby 72% accuracy with a given dataset by DecisionTreeClassifier Model.
 ![AIproj](https://user-images.githubusercontent.com/99546831/169717891-31fbe83b-b06f-40a0-80c1-17f6a7e7539a.PNG)
+![image](https://user-images.githubusercontent.com/99601979/170111532-27482ade-e504-4c95-9115-eb13eefd6855.png)
+
 
 
 # Muhammad Faiz(10637)
